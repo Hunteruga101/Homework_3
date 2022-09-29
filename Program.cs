@@ -1,7 +1,7 @@
 ﻿using System;
 
 namespace Homework_3
-{
+{sisipisi
     internal class Program
     {
         static void Main(string[] args)
